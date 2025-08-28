@@ -50,4 +50,9 @@ Make sure you have Python 3.8+ installed. Install dependencies with:
 
 # 🖼️ Preview
 
+<img width="1379" height="898" alt="image" src="https://github.com/user-attachments/assets/e7015ea8-4f78-4bda-b5e9-a2f92ac6e405" />
+<img width="1364" height="864" alt="image" src="https://github.com/user-attachments/assets/825fb157-db32-4265-82bd-39d4e6090315" />
+
+
+
 
