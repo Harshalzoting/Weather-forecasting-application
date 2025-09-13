@@ -27,7 +27,7 @@ class AdvancedWeatherApp:
         self.animation_running = False
         
         # API key - replace with your OpenWeatherMap API key
-        self.api_key = "bfd137b6d953fbd8721c3a9d003c66b6"  # Get from openweathermap.org
+        self.api_key = ""  # Get from openweathermap.org
         
         self.setup_ui()
         self.setup_charts()
